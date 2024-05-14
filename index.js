@@ -1,3 +1,5 @@
-console.log("first line created")
-console.log("second line created")
+function jaanu(){
+    return "jaanu"
+}
+
 console.log("fourth line createed")
